@@ -19,6 +19,8 @@
 
   --stroke-default: #D6D3D1;
   --semantic-error: #DC2626;
+
+  --stroke-highlight: #F3541C;
 }
 
 body {
